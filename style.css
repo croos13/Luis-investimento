@@ -13,8 +13,8 @@ header{
 }
 section{
 background : rgb(200, 245, 0);
-padding-bottom : 50px;
-padding-top:50px;
+padding-bottom : 20px;
+padding-top:20px;
 display: flex;
 justify-content: center;
 }
@@ -25,4 +25,5 @@ justify-content: center;
 
 h1{
     font-size:10px;
+    justify-content:center
 }
