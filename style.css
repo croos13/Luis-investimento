@@ -9,6 +9,8 @@ header{
     border-bottom: solid 40px;
     padding: 20px;
     font-size: 20px;
+    display: flex;
+    justify-content
     color:rgb(42,122,222);
 }
 section{
