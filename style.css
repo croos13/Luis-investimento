@@ -1,7 +1,7 @@
 body{
     background: orange;
     color:purple;
-    margin: 0px;
+    margin: 20px;
      font-family: "Bitcount Prop Single", system-ui;
 }
 
@@ -9,8 +9,6 @@ header{
     border-bottom: solid 40px;
     padding: 20px;
     font-size: 20px;
-    display: flex;
-    justify-content:center;
     color:rgb(42,122,222);
 }
 section{
