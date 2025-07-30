@@ -6,9 +6,9 @@ body{
 }
 
 header{
-    border-bottom: solid 40px;
+    border-bottom: solid 2px;
     padding: 20px;
-    font-size: 20px;
+    font-size: 30px;
     color:rgb(42,122,222);
 }
 section{
