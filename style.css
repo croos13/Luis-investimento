@@ -29,8 +29,10 @@ h1{
 }
  div.chamada-text{
     display: flex;
-    justify-content: center;
+     justify: center;
+    
  }
+
 
 
 
