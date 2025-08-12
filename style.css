@@ -27,11 +27,12 @@ h1{
     font-size:40px;
 
 }
- div.chamada-text{
+ .chamada-text{
     display: flex;
      justify-content: center;
     
  }
+
 
 
 
