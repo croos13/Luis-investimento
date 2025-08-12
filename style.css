@@ -21,17 +21,16 @@ justify-content: center;
 
 .chamada-text{
     margin-right: 5%;
+     display: flex;
+     justify-content: center;
 }
 
 h1{
     font-size:40px;
 
 }
- .chamada-text{
-    display: flex;
-     justify-content: center;
-    
- }
+
+
 
 
 
